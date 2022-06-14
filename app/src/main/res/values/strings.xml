@@ -3,4 +3,6 @@
     <string name="stopButtonText">Stop Button</string>
     <string name="startButtonText">Start Button</string>
     <string name="heading">Heading</string>
+    <string name="start_foreground_service">Start foreground Service</string>
+    <string name="stop_foreground_service">Stop Foreground Service</string>
 </resources>
